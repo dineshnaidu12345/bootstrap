@@ -1,0 +1,38 @@
+.nas{
+    border: 1px solid;
+    width: 20%;
+    text-align: center;
+    
+
+    display: inline-block;
+}
+.din{
+    border: 1px solid;
+    width: 20%;
+
+text-align: center;
+    display: inline-block;
+}
+.die{
+    border: 1px solid;
+    width: 20%;
+    text-align: center;
+
+    display: inline-block;
+}
+.tr{
+    border: 1px solid;
+   text-align: center;
+    padding: 10px;
+    
+}
+button{
+    background-color: blue;
+    color: white;
+    border:none;
+
+}
+.ag
+{
+    text-align: center;
+}

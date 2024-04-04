@@ -1,0 +1,12 @@
+h1{
+    background-color: purple;
+    width: 120px;
+
+}
+
+div:hover h2{
+    display: block;
+}
+h2{
+    display: none;
+}

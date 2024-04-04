@@ -1,0 +1,41 @@
+.parent{
+    width: 500px;
+    height: 460px;
+}
+.child{
+    width: 300px;
+    height:350px;
+}
+i{
+    font-size:35px;
+     height: 50px;
+    padding-left: 6.5px;
+     width: 50px;
+     color: rgb(89, 48, 179);
+     border-radius: 5px;
+
+}
+.frees{
+    position: relative;
+}
+.free{
+    position: absolute;
+    top: 470px;
+    left:650px;
+    color: white;
+    
+}
+.nai{
+    border-radius: 3px;
+    width: 60px;
+    height: 35px;
+}
+.you{
+    position: absolute;
+    top:295px;
+    left:800px ;
+}
+.fgh{
+    color: grey;
+    font-size: 20px;
+}

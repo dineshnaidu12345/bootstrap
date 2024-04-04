@@ -1,0 +1,177 @@
+.ggg{
+display: inline-block;
+width: 20%;
+} ul{
+    list-style: none;
+background-color: white;
+
+}
+.aaa{
+    width: 50%;
+    display: inline-block;
+    vertical-align: bottom;
+    text-align: right;
+
+}
+.bbb{
+    padding: 10px;
+    color:blue;
+    display: inline-block;
+
+
+}
+.bbb:hover
+{
+    background-color: aqua;
+}
+h1{
+    color: blue; 
+}
+.fre{
+    background-color: rgb(11, 186, 255)
+}
+.qwe{
+    
+    width: 45%;
+    text-align:left;
+    margin:40px;
+    display: inline-block;
+}
+button{
+    background-color: white;
+    color:rgb(11, 186, 255);
+    padding: 10px;
+    border: 6px solid;
+    border-color: rgb(10, 126, 184);
+    display: inline-block;
+}
+.htg{
+    width: 40%;
+    display: inline-block;
+    vertical-align:middle;
+    margin: -2px;
+
+}
+.read{
+    text-align: right;
+}
+.tgf{
+    width: 70%;
+    display: inline-block;
+}
+.hgj{
+    width: 45%;
+    display: inline-block;
+    text-align: right;
+}
+.asw{
+
+    display: inline-block;
+}
+.dfg{
+     width: 25%;
+    display: inline-block;
+    
+}
+.bvc{
+    background-color: white;
+    color:rgb(11, 186, 255);
+    padding: 10px;
+    border: 6px solid;
+    border-color: rgb(195, 205, 210);
+    width: 50%;
+    margin: -2px;
+}
+.r44
+{
+    width: 70%;
+    display: inline-block;
+}
+.ere
+{
+    width: 25%;
+    display: inline-block;
+}
+.setting {
+    display: inline-block;
+    width: 18%;
+    margin: -2px;
+
+}
+
+.Flexible {
+    display: inline-block;
+    width: 18%;
+    margin: -2px;
+}
+
+.Support {
+    display: inline-block;
+    width: 18%;
+    margin: -2px;
+}
+
+.Easy {
+    display: inline-block;
+    width: 18%;
+    margin: -2px;
+}
+
+.SEO {
+    display: inline-block;
+    width: 18%;
+    margin: -2px;
+
+}
+.ss{
+    text-align: center;
+    box-sizing: border-box;
+    background-color: rgb(41, 171, 214);
+    
+
+}
+.de{
+    width: 25%;
+    display: inline-block;
+    margin: -2px;
+    background-color: rgb(27, 121, 203);
+    box-sizing: border-box;
+    padding: 10px;
+    color:white;
+
+}
+.na{
+    width: 75%;
+    display: inline-block;
+    margin: -2px;
+    padding: 10px;
+    box-sizing: border-box;
+    background-color: rgb(141, 14, 92);
+    
+}
+.taz{
+    list-style: none;
+    
+    display: inline-block;
+}
+.footer{
+    height: 30px;
+    padding: 5px;
+    
+}
+.ser{
+    padding: 20px;
+    display: inline;
+    
+    margin: 50px;
+    color:white;
+    text-decoration: none;
+
+    
+}
+
+
+
+   
+    
+

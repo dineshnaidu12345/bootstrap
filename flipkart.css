@@ -1,0 +1,101 @@
+.parent{
+    display: flex;
+    justify-content: row;
+    background-color: white;
+    border-radius: 10px 0px 0px 10px;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+}
+/*.child1{
+    padding: 5px 5px 8px 20px;
+}*/
+.child1 img{
+    width: 180px;
+}
+#sea{
+width: 750px;
+padding: 9px;
+border-radius: 7px;
+margin-top: 10px;
+border-color: rgb(237, 244, 247);
+background-color: rgb(237, 244, 247);
+height: 20px;
+font-size: 18px;
+
+}
+.child2{
+   margin-left: 45px;
+   width: 50%;
+   
+}
+.small{
+    position: relative;
+    bottom: 30px;
+    left: 9px;
+}
+.small i{
+    font-size: 22px;
+    color:rgb(127, 136, 140);
+    
+}
+.child4 i{
+    font-size: 25px;
+    background-color: white;
+    padding: 15px;
+    margin-top: 70px;
+    
+   
+    
+}
+.child4{
+    font-size:23px ;
+}
+.child4 select{
+    border-color: white;
+}
+.chuka{
+    
+    font-size: 20px; 
+    margin-left: 40px;  
+}
+.parent1{
+    display: flex;
+    justify-content: space-evenly;
+    background-color: white;
+   margin: 10px;
+    padding: 30px 50px;
+    
+    
+}
+.family{
+    background-color: rgb(225, 234, 238);
+}
+.son1{
+   font-size: 20px;
+}
+.parent2 img{
+    margin-left: 10px ;
+
+}
+.parent3{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30px;
+    margin-top: 3px;
+        
+}
+.son1 select{
+    border-color: white;
+   
+}
+.parent4{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    padding: 30px;
+   
+}
+.top img{
+    aspect-ratio: 4/5;
+}

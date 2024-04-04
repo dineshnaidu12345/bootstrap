@@ -1,0 +1,39 @@
+.dd
+{
+    width:20%;
+    display: inline-block;
+    border: 1px solid;
+    box-sizing: border;
+    margin: -1px;
+    
+}
+.cc
+{
+    width:20%;
+    display: inline;
+
+    border: 1px solid;
+    box-sizing: border-box;
+    margin: -1px;
+    
+}
+.ee
+{
+    width:20%;
+    display: inline;
+
+    border: 1px solid;
+    box-sizing: border-box;
+    margin: -1px;
+    
+}
+.ff
+{
+    width:20%;
+    display: inline;
+
+    border: 1px solid;
+    box-sizing: border-box;
+    margin: -1px;
+    
+}

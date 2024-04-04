@@ -1,0 +1,85 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+
+}
+body{
+    width: 100%;
+    height: 100vh;
+    background-color:grey;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('https://wallpaperaccess.com/full/1515452.jpg');
+    background-size: cover;
+}
+.toys{
+    width: 300px;
+    height: 500px;
+    border-radius: 20px;
+    border: 8px solid rgba(0,0,0, 0.6);
+     overflow: hidden; 
+    position: relative;
+
+
+
+}.toy-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    border-radius: 15px;
+}
+.toys-body{
+    width: 100%;
+    height: 100%;
+    top: 0;
+    right:-100%;
+    position: absolute;
+   
+    backdrop-filter: blur(10px);
+  
+    border-radius: 15px;
+    color: white;
+    padding: 30px; 
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    transition: 1s;
+    
+
+
+    
+}
+.car{
+    text-transform:uppercase ;
+    font-size: 30px;
+    font-family: 500;
+}
+.tittle{
+    text-transform: lowercase;
+    font-size: 26px;
+    font-weight: 400;
+    margin-top: 10px;
+}
+.info{
+    margin: 40px 0;
+   
+    
+}
+.dinesh{
+   background-color: rgb(175, 175, 58);
+   padding:8px;
+   border-radius: 5px;
+   border: none;
+   inline-size: none;
+   text-transform: capitalize;
+   color:rgb(47, 15, 15);
+   cursor: pointer;
+   width: 120px;
+
+}
+.toys:hover .toys-body{
+    right: 0;
+}
